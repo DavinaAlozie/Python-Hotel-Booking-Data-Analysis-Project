@@ -4,7 +4,7 @@ This is an end-to-end data analysis project to investigate the variables that af
 # Business Problem
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue and for us to offer thorough business advice to address this problem.
 
-# Research Question
+# Research Questions
 1. What are the variables that affect hotel reservation cancellations?
 2. How can we make hotel reservations cancellations better?
 3. How will hotels be assisted in making pricing and promotional decisions?
